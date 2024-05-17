@@ -21,6 +21,8 @@ The `pages/api` directory is mapped to `/api/*`. Files in this directory are tre
 This is an ongoing, active project, and we'd love for anyone and everyone to contribute!
 If you'd like to help, look at [how you can contribute](./CONTRIBUTING.md).
 
+To learn Solana development using this course, [visit Soldev](https://soldev.app/course).
+
 ## Providing feedback and suggestions
 
 If you have feedback on content or suggestions for additional content, [create an issue](https://github.com/Unboxed-Software/solana-course/issues/new) explaining your feedback/suggestions.
