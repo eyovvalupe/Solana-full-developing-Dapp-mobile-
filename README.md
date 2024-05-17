@@ -1,12 +1,20 @@
-# Solana Development Course
+## Build and Run
 
-## About
+Next, run the development server:
 
-This course is the best place for web developers who are beginning their Web3 development journey. Solana is the ideal network for Web3 because of its high speed, low transaction costs, and large developer community.
+```bash
+npm run dev
+# or
+yarn dev
+```
 
-The course is currently hosted at https://soldev.app/course. 
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-To learn Solana development using this course, [visit Soldev](https://soldev.app/course).
+You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+
+The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
 ## Contributing
 
